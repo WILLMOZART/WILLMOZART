@@ -10,6 +10,7 @@
 - 🔭 I’m currently working on **React**
 
 - 🌱 I’m currently learning **Django**
+- - 🌱 I’m currently learning **R**
 
 - 👯 I’m looking to collaborate on **Python**
 
